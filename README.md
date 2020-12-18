@@ -1,5 +1,4 @@
-# Algorithm
-C++
+# Algorithm 
 Yesterday I got an offer to further study computer science in Bristol. 
 In order to get a good job in the future, I decided to challenge myself.
 I need challenges to keep sharpen. 
